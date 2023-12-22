@@ -1,0 +1,10 @@
+baseURL = 'https://915411912.github.io'
+languageCode = 'en-us'
+title = '无敌懒羊羊'
+theme = 'ananke'
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
